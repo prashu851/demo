@@ -153,4 +153,39 @@
         }
 
     ]
+    "cart":[
+    {
+            "brand":"Realme",
+            "name":"Realme 5 Pro",    
+            "colour":"Sparkling Blue",
+            "ramInGb":"6",
+            "internalStorage":"64",
+            "price": 14999
+        },
+        {
+            "brand":"Redmi",
+            "name":"Redmi Note 9 Pro",
+            "colour":"In telarBlack",
+            "ramInGb":"4",
+            "internalStorage":"64",
+            "price":12999
+        },
+        {    
+            "brand":"Samsung",
+            "name":"Samsung Galaxy A51",
+            "colour":"Prism Crush Blue",
+            "ramInGb":"6",
+            "internalStorage":"128",
+            "price":23999
+        },
+        {
+            "brand":"OnePlus",
+            "name":"OnePlus 7T Pro",
+            "colour":"Haze Blue",
+            "ramInGb":"8",
+            "internalStorage":"256",
+            "price":43999
+        }
+    ]
+    
 }
