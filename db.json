@@ -1,4 +1,6 @@
 {
+    "countries":['India','Australia','Newzealand','England','South Africa','USA','Russia','China','Japan','Germany'],
+    "cities":['Hyderabad', 'Mumbai', 'Chennai', 'Nizamabad', 'Warangal'],
     "mobiles":[
         {
             "brand":"Realme",
